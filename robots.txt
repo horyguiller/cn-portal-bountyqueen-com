@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://horyguiller.github.io/cn-portal-bountyqueen-com/sitemap.xml
